@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm captainskip</h1>
+<h1 align="center">Hi 👋, I'm Skipper</h1>
 <h3 align="center">An aspiring developer from ZA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainskip&label=Profile%20views&color=0e75b6&style=flat" alt="captainskip" /> </p>
