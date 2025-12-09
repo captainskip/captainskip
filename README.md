@@ -1,13 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Skipper</h1>
 <h3 align="center">An aspiring developer from ZA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainskip&label=Profile%20views&color=0e75b6&style=flat" alt="captainskip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainskip" alt="captainskip" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Javascript, React**
+- 🌱 I’m currently learning and improving on **Python,Javascript, React and Next.js**
 
-- 📫 How to reach me **stumpeed4@gmail.com**
+- 📫 other ways to reach me **stumpeed4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
